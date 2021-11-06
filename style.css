@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: aquamarine;
+    font-family: 'Roboto', 'sans-serif';
+}
+.op{
+    width: 1000px;
+    background-color: burlywood;
+ padding: 20px;
+  float: left; 
+    
+}
+.hh{
+    width: 100px;
+    height: 120px;
+    border: 3px solid gold;
+    border-radius: 50%;
+
+}
+.gg{
+    float:right;
+    padding: 15px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: hotpink;
+
+}
+.contact{
+    float: right;
+}
+.contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+    padding: 39px;
+}
+.contact a:hover{
+    color: rgb(102, 30, 102);
+    text-decoration: underline;
+}
+.clear{
+    clear: both;
+}
+hr{ border: solid gold 3px;
+    border-bottom: none auto;
+    margin: 20px;
+    width: 100%;
+}
+#personal{
+
+}
+.content{
+ margin-bottom: 30px;
+
+}
+.left{
+width: 30%;
+float: left;
+}
+.right{
+width: 70%;
+float: left;
+}
+.common{
+    border: solid black;
+    border-bottom: none;
+    width: 100%;
+    margin:20px auto;
+}
